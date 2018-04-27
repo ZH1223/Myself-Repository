@@ -3,3 +3,6 @@ git is free software
 I changed test.txt
 I change this agin
 i do that agin；
+ok i come agin;
+vi first add;
+vi second commit:
