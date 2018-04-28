@@ -1,3 +1,4 @@
 clean do it again ;
 ok I want add this time;
-now I want commit this ;
+now I want commit this 
+second day ;
